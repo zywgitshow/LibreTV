@@ -88,31 +88,31 @@ const API_SITES = {
     },
     zuid: {
         api: 'https://api.zuidapi.com/api.php/provide/vod',
-        name: '最大资源'
+        name: '最大资源',
     },
     yinghua: {
         api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
-        name: '樱花资源'
+        name: '樱花资源',
     },
     baidu: {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
-        name: '百度云资源'
+        name: '百度云资源',
     },
     wujin: {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
-        name: '无尽资源'
+        name: '无尽资源',
     },
     wwzy: {
         api: 'https://wwzy.tv/api.php/provide/vod',
-        name: '旺旺短剧'
+        name: '旺旺短剧',
     },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
-        name: 'iKun资源'
+        name: 'iKun资源',
     },
     xingba:{
         api:'https://xingba111.com/api.php/provide/vod',
-        name:'星巴资源'
+        name:'星巴资源',
     },
         
     // testSource: {
@@ -150,12 +150,12 @@ const API_SITES = {
     },
     r155: {
         api: 'https://155api.com/api.php/provide/vod',
-        name: '155资源'
+        name: '155资源',
         // adult: true
     },
-    shayu：{
+    shayu:{
         api: 'http://sybyapi.com/api.php/provide/vod/at/json',
-        name: '鲨鱼资源'
+        name: '鲨鱼资源',
         // adult: true
         // https://shayuzy5.com/
     },
@@ -163,7 +163,7 @@ const API_SITES = {
     lsb: {
         api: 'https://apilsbzy1.com/api.php/provide/vod',
         name: 'lsb资源',
-        adult: true
+        // adult: true
     },
     huangcang: {
         api: 'https://hsckzy.vip/api.php/provide/vod',
@@ -174,7 +174,7 @@ const API_SITES = {
     yutu: {
         api: 'https://yutuzy10.com/api.php/provide/vod',
         name: '玉兔资源',
-        adult: true
+        // adult: true
     },
 
     // 下面是资源失效率高的API源，不建议使用
