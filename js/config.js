@@ -110,7 +110,7 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源',
     },
-    xingba:{
+    xingba: {
         api:'https://xingba111.com/api.php/provide/vod',
         name:'星巴资源',
     },
@@ -153,7 +153,7 @@ const API_SITES = {
         name: '155资源',
         // adult: true
     },
-    shayu:{
+    shayu: {
         api: 'http://sybyapi.com/api.php/provide/vod/at/json',
         name: '鲨鱼资源',
         // adult: true
